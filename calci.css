@@ -1,0 +1,25 @@
+
+.calci{
+    font-size: 25px;
+    text-align: center;
+    margin-top: 5px;
+    border: 2px solid black;
+    width: 50%;
+    height: 445px;  
+    background-image: url(pic.jpg); 
+}  
+table{
+    margin: auto;
+}
+input{
+    font-size: 30px;
+    width: 245px;
+    height: 40px;
+}
+button{
+    font-size: 21px;
+    height: 45px;
+    width: 60px;
+    background-color: aliceblue;
+    
+}
